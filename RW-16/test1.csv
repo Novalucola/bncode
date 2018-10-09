@@ -1,0 +1,16 @@
+Switch,0x20,65,1,10,FALSE,Relay ON
+Read,CE0,0,1,3,TRUE,Reading voltage
+Switch,0x20,65,0,4,FALSE,Relay OFF
+Switch,0x20,65,1,10,FALSE,Relay ON
+Read,CE0,0,1,3,TRUE,Reading voltage
+Switch,0x20,65,0,4,FALSE,Relay OFF
+Switch,0x20,65,1,10,FALSE,Relay ON
+Read,CE0,0,1,3,TRUE,Reading voltage
+Switch,0x20,65,0,4,FALSE,Relay OFF
+Switch,0x20,65,1,10,FALSE,Relay ON
+Read,CE0,0,1,3,TRUE,Reading voltage
+Switch,0x20,65,0,4,FALSE,Relay OFF
+Switch,0x20,65,1,10,FALSE,Relay ON
+Read,CE0,0,1,3,TRUE,Reading voltage
+Switch,0x20,65,0,4,FALSE,Relay OFF
+End,,,,1,,END OF TEST
